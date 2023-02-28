@@ -1,0 +1,82 @@
+
+
+@import url(style.css);
+.gp
+{
+    font-size: 80px;
+    padding: 1px 30px;
+}
+.mp
+{
+    font-size: medium;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.tc{
+    text-align: center;
+}
+.flex
+{
+    display: flex;
+    
+}
+/***squelette***/
+.container
+{
+    display: flex;
+    height: 900px;
+    margin: 0 10%;
+    
+}
+.left
+{
+ background-image: url("../../../water.jpg");
+ background-size: cover;
+background-attachment: fixed; 
+
+}
+.right
+{
+    background-color: whitesmoke;
+    
+
+}
+ 
+/****style type******/
+
+.unlisted
+{
+    list-style: none;
+}
+
+.divider
+{
+    border: 1px solid skyblue;
+}
+.sdivider
+{
+    border: 1px solid skyblue;
+    width: 50%;
+    
+}
+
+
+/*********************padding*********************************/
+
+.px-20
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+.margin
+{
+    margin: 100px 10px;
+}

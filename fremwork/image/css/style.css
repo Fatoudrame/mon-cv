@@ -1,0 +1,41 @@
+.niveau
+{
+background-color: skyblue;
+width: 90%;
+height: 20px;
+}
+
+.fr
+{
+    background-color: black;
+    width: 90%;
+    height: 20px;
+}
+
+.en{
+    background-color: black;
+    width: 60%;
+    height: 20px;
+}
+.ba
+{
+    background-color: black;
+    width: 90%;
+    height: 20px;
+}
+.sa
+{
+    background-color: black;
+    width: 90%;
+    height: 20px;
+}
+
+.h1
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.align{
+    text-align: right;
+}
